@@ -53,7 +53,7 @@ $ ps aux
 ```bash
 $ ps -ef
 ```
-![ps -ef 명령어 스크린샷]()
+![ps -ef 명령어 스크린샷](./images/ps-ef.png)
 
 ## 3. `jobs`명령어: 백그라운드 작업 관리
 
