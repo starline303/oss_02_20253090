@@ -23,4 +23,4 @@
 ### 사용 예시
 ```bash
 $ top
-<img width="1174" height="78" alt="스크린샷 2025-11-29 오후 11 21 05" src="https://github.com/user-attachments/assets/7362524d-3293-41bc-a248-bf1c367a8593" />
+
