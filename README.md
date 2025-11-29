@@ -49,7 +49,7 @@ $ top
 ```bash
 $ ps aux
 ```
-![ps aux 명령어 스크린샷 ](./images/ps aux.png)
+![ps aux 명령어 스크린샷 ](./images/ps_aux.png)
 ```bash
 $ ps -ef
 ```
