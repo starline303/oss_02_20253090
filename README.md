@@ -107,8 +107,8 @@ $ kill [옵션:시그널] [PID 또는 %Job_ID]
 ```bash
 $ kill 1234
 ```
-![kill_1 스크린샷]()
+![kill_1 스크린샷](./images/kill_1.png)
 ```bash
 $ kill -9 5678
 ```
-![kill_2 스크린샷]()
+![kill_2 스크린샷](./images/kill_2.png)
